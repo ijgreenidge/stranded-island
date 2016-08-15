@@ -1,8 +1,117 @@
 .stranded{
-    background-color: green;
+    background-color: #98FB98;
     border-style:solid;
     border-color: black;
-   
+   position: relative;
     padding: 50px 30px 50px 80px;
 }
 
+
+.explored{
+      background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+}
+
+.person{
+    background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+}
+
+#villager{
+    width:250px;
+    height:250px;
+}
+.village{
+          background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+}
+
+#chief{
+    width:300px;
+    height:300px;
+}
+
+.flare{
+         background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+}
+
+
+.dead{
+    background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+}
+
+.run{
+     background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+    
+}
+
+.peace{
+      background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+}
+
+.dboat{
+       background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+}
+
+.boat{
+    background-color: #98FB98;
+    border-style:solid;
+    border-color: black;
+   position: relative;
+    padding: 50px 30px 50px 80px;
+}
+
+#boat{
+     width:300px;
+    height:300px;
+}
+
+#d_boat{
+     width:300px;
+    height:300px;
+}
+
+#ded{
+     width:300px;
+    height:300px;
+}
+
+#sman{
+    width:350px;
+    height:350px;
+ 
+}
+
+#peace{
+    width:350px;
+    height:350px;
+}
